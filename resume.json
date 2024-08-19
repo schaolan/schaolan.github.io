@@ -1,0 +1,224 @@
+
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Pierre Raboteau",
+    "label": "Technical leader chez Micropole",
+    "image": "",
+    "email": "pierre.raboteau@gmail.com",
+    "phone": "0626837634",
+    "url": "",
+    "summary": "",
+    "location": {
+      "countryCode": "FR",
+      "address": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "pierre-raboteau-74481213a",
+        "url": "https://www.linkedin.com/in/pierre-raboteau-74481213a/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Micropole",
+      "position": "Technical Lead",
+      "startDate": "2024-01-31",
+      "endDate": "",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/micropole/",
+      "location": "Niort, Nouvelle-Aquitaine, France"
+    },
+    {
+      "name": "onepoint",
+      "position": "Technical Lead",
+      "startDate": "2022-03-31",
+      "endDate": "2024-01-31",
+      "highlights": [],
+      "summary": "Conception technique.\n● Développement de l’application\n● Déploiement des API sur un bus applicatif.\n● Mise en place du workflow gitflow",
+      "url": "https://www.linkedin.com/company/onepoint/",
+      "location": "Nantes, Pays de la Loire, France"
+    },
+    {
+      "name": "SQLI",
+      "position": "Technical Lead",
+      "startDate": "2018-11-30",
+      "endDate": "2022-03-31",
+      "highlights": [],
+      "summary": "Mission ou tâches effectuées :\nDéveloppement et maintenance Applicative des applications.\nIndustrialisations des applications.\n\t\t \tConception et développement de nouvelles fonctionnalités\n \tAccompagnement technique de l’équipe de développement\n \tRevue et validation des développements\n \tDéfinition des pipelines Jenkins\n \tDéfinition de la stratégie de branching (feature git flow)\n \tAnalyse et chiffrage des besoins client\n \tRédaction et présentation des supports de transfert de compétences technique\n \tRéalisation de support de formation Spring\n \tFormation Spring pour les équipes de développement",
+      "url": "https://www.linkedin.com/company/sqli/",
+      "location": "Nantes, Pays de la Loire, France"
+    },
+    {
+      "name": "CGI",
+      "position": "Lead developer Java",
+      "startDate": "2015-07-31",
+      "endDate": "2018-10-31",
+      "highlights": [],
+      "summary": "Mission ou tâches réalisés :\r\no\tConception et développement de batchs java multi-threads d'export (Oracle, Centera, CMOD), de transformation, d'injection (CMOD) et de contrôle\r\no\tResponsable de l'outillage et des livraisons\r\no\tRéférent technique\r\no\tRédaction de spécifications techniques, tests unitaires, guides d'installation, de paramétrage et d'exploitation\r\no\tAssistance auprès du client lors de l'installation et de l'exploitation des outils et structures CMOD livrés\r\no\tAccueil et formation des nouveaux arrivants sur le projet",
+      "url": "https://www.linkedin.com/company/cgi/"
+    },
+    {
+      "name": "Accenture",
+      "position": "Développeur Java",
+      "startDate": "2014-11-30",
+      "endDate": "2015-06-30",
+      "highlights": [],
+      "summary": "Développement et maintenance du système applicatif d’une société de télécommunication.",
+      "url": "https://www.linkedin.com/company/accenture/",
+      "location": "Nantes"
+    },
+    {
+      "name": "CYLANDE",
+      "position": "Développeur Java / Flex",
+      "startDate": "2011-08-31",
+      "endDate": "2014-10-31",
+      "highlights": [],
+      "summary": "Développement et maintenance de modules pour le progiciel UnitedRetail\r\no\tConception et développement de CRUD en java\r\no\tConception e développement d'IHM en flex\r\no\tRéalisation de tests automatisés des différents CRUD développés\r\no\tMaintenance des développements\r\no\tIntervention d'optimisation et de qualité de code",
+      "url": "",
+      "location": "Roubaix"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "IUT A Villeneuve d'Ascq",
+      "area": "Développement et Administration Internet Intranet",
+      "studyType": "Licence proféssionnelle",
+      "startDate": "2009-12-31",
+      "endDate": "2010-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "API REST",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Jenkins",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Spring Boot",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Adobe Flex",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Spring",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ADF",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Oracle",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Perl",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Shell",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Angular",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sonar",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Services web",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SOAP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Services web RESTful",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "fr",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
